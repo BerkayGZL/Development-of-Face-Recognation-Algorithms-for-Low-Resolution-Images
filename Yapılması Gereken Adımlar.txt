@@ -1,0 +1,9 @@
+1-) arayüz dosyasının içerisine giriniz.
+2-) output.py dosyasını açınız. 
+3-) output.py dosyasını çalıştırınca arayüz açılacaktır.
+4-) gelen arayüzde Fotograf Yükle Butonuna basmanız gerekmektedir.
+5-) gelen sekmekden bir önceki menüye gelin face_rec de bulunan düşük çözünürlüklü fotoğrafı seçmelisiniz.
+6-) fotograf seçildikten sonra arayüzde 1. ekrana düşmektedir.
+7-) arayüz üzerinden VQFR butonuna basmanız gerekmektedir. İşlem sonunda ortadaki çerçeve içerisine yüksek çözünürlüklü fotograf gelmektedir. (işlem biraz uzun sürebilir.)
+8-)arayüz üzerinden yüz tanıma butonuna basılınca tanınan yüz fotografları 3. çerçeveye gelecektir. 
+9-)aynı düşük çözünürlüklü fotografı tekrar arayüze koyup VQFR methodu ile görüntü kalitesini artırmak isterseniz araüz > restored_img > cmp den görüntü kalitesi artırdığı kişinin fotoğrafını silmeniz gerekmektedir.
