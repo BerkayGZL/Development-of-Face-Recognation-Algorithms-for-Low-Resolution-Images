@@ -14,10 +14,10 @@ The PyQt5 interface provides a user-friendly interface so that users can easily 
 
 This study makes a valuable contribution to the field of bringing low-resolution face images to super resolution and increasing face recognition success.
 
-If you have any questions about the code, please contact "b.guzell@outlook.com.tr".
-
 In the Photo:
 First Step.jpg : Choose the image in folder.
 Second Step.jpg : Start the VQFR method.
 Third Step.jpg : we can see the low resolution (left) image and high resolution (right) image.
 Last Step.jpg : face recognition of both the low-resolution photo and the super-resolution photo, and the recognition rates are calculated.
+
+If you have any questions about the code, please contact "b.guzell@outlook.com.tr"
